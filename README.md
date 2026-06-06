@@ -114,9 +114,6 @@ For prediction, we used two simple models:
 
 * Logistic Regression
 * Decision Tree Classifier
-
-Nothing too crazy, but good enough to test the idea.
-
 ---
 
 ## Results
